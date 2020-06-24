@@ -1,0 +1,10 @@
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\bin\Debug\Form_WEBCAM.exe.config
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\bin\Debug\Form_WEBCAM.exe
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\bin\Debug\Form_WEBCAM.pdb
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.csprojAssemblyReference.cache
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.Form1.resources
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.Properties.Resources.resources
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.csproj.GenerateResource.cache
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.csproj.CoreCompileInputs.cache
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.exe
+C:\Users\constantin.pricope\source\repos\Form_WEBCAM\Form_WEBCAM\obj\Debug\Form_WEBCAM.pdb
